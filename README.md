@@ -4,8 +4,8 @@ sample Dataset summarizes the usage behavior of about 9000 active credit card ho
 
 Use Cases:
 
-Document Classification
-Delivery Store Optimization
-Customer Segmentation
+Document Classification, 
+Delivery Store Optimization, 
+Customer Segmentation, 
 Insurance Fraud Detection etc.
 
